@@ -1,0 +1,3 @@
+rootProject.name = 'ReduxRealm'
+
+include ':app'
